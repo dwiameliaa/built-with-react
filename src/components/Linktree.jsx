@@ -5,7 +5,7 @@ const Linktree = () => {
         {/* Header */}
         <div className="mb-6 text-center">
           <img
-            src="src/assets/furinaa.jpg"
+            src="/furinaa.jpg"
             alt="User Avatar"
             className="rounded-full w-24 h-24 mx-auto border-4 border-blue-300 drop-shadow-md "
           />
