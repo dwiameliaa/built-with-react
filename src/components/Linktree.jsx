@@ -34,21 +34,13 @@ const Linktree = () => {
             Instagram 📸
           </a>
           <a
-            href="https://www.linkedin.com/in/dwi-lestari-amelia-46181532a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.linkedin.com/in/dwi-lestari-amelia "
             target="_blank"
             rel="noopener noreferrer"
             className="block w-full py-3 px-6 bg-gradient-to-r from-blue-900 to-blue-500 text-white rounded-full shadow-md hover:shadow-lg hover:scale-105 transform transition duration-300 ease-in-out"
           >
             LinkedIn 💼
           </a>
-          {/* <a
-            href="https://surabayajs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block w-full py-3 px-6 bg-gradient-to-r from-purple-400 to-pink-400 text-white rounded-full shadow-md hover:shadow-lg hover:scale-105 transform transition duration-300 ease-in-out"
-          >
-            X 🌐
-          </a> */}
         </div>
       </div>
     </div>
