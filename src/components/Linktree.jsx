@@ -18,7 +18,7 @@ const Linktree = () => {
         {/* Links */}
         <div className="space-y-4 text-center">
           <a
-            href="https://github.com/dwiameliaa"
+            href="https://portfolio-website-dwi.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="block w-full py-3 px-6 bg-gradient-to-r from-blue-900 to-blue-500 text-white rounded-full shadow-md hover:shadow-lg hover:scale-105 transform transition duration-300 ease-in-out"
