@@ -24,7 +24,7 @@ const Linktree = () => {
       ></div>
 
       {/* Main Content */}
-      <div className="relative z-10 bg-white/30 backdrop-blur-lg rounded-3xl shadow-lg p-10 w-full max-w-md transition-transform transform hover:scale-105 hover:shadow-2xl border border-white/50">
+      <div className="relative z-10 bg-white/30 backdrop-blur-lg rounded-3xl shadow-2xl p-10 w-full max-w-md border border-white/50">
         {/* Header */}
         <div className="mb-6 text-center">
           <img
