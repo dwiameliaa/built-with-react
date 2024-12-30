@@ -38,7 +38,7 @@ const Linktree = () => {
             Dwi Lestari Amelia
           </h1>
           <p className="text-gray-700 font-normal">
-            A computer science student who loves coding and cats🐾
+            Just someone who loves coding and cats
           </p>
         </div>
 
